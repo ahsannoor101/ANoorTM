@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahsan Noor.
-- 👀 Frontend dev learning to be a Full Stack.
+- 👀 A Software Engineer learning to be a Full Stack Dev.
 - 🌱 I’m currently working Freelance
 - 💞️ Looking to collaborate on Projects.
 - 📫 Twitter Handle: @ANoorTM
