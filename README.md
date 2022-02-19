@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahsan Noor.
 - 👀 A Software Engineer learning to be a Full Stack Dev.
-- 🌱 I’m currently working Freelance
+- 🌱 I’m currently working as a Freelancer.
 - 💞️ Looking to collaborate on Projects.
 - 📫 Twitter Handle: @ANoorTM
 
