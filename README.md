@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahsan Noor.
 - 👀 A Software Engineer learning to be a Full Stack Dev.
-- 🌱 I’m currently working as a Freelance Frontend Developer.
-- ✍ Also providing SMM, Content Creation/Strategy & Writing Services.
+- 🌱 I’m currently working as a Freelance Developer.
+- ✍ SMM, Content Creation/Strategy & Writing Services.
 - 💞️ Looking to collaborate on Projects.
 - 📫 Twitter Handle: @ANoorTM
 
