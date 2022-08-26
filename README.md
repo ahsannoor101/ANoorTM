@@ -3,6 +3,7 @@
 - 🌱 I’m currently working as a Freelance Developer.
 - ✍ SMM, Content Creation/Strategy & Writing Services.
 - 💞️ Looking to collaborate on Projects.
+- 💻 Looking for DevRel role.
 - 📫 Twitter Handle: @ANoorTM
 
 <!---
