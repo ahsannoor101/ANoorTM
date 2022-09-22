@@ -39,14 +39,10 @@
 
 📈 My GitHub Stats <br>
 
-<div width="100%" height="200px">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ANoorTM&show_icons=true&theme=merko" alt="GitHub Stats" width="48%" height="200px">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANoorTM&layout=compact&show_icons=true&theme=merko" alt="Top Languages" width="48%" height="200px">
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ANoorTM&show_icons=true&theme=merko" alt="GitHub Stats" width="47%" height="200px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANoorTM&layout=compact&show_icons=true&theme=merko" alt="Top Languages" width="47%" height="200px">
 
-<div width="100%" height="200px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko" alt="Current Streak" width="100%" height="200px">
-</div>
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko" alt="Current Streak" width="100%" height="200px">
 
 <!---
 ANoorTM/ANoorTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
