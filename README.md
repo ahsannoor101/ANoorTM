@@ -12,7 +12,10 @@ Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 📙Letest Blogs
 <!-- BLOG-POST-LIST:START -->
-
+- [How to host your frontend projects on GitHub pages for free?](https://anoor.hashnode.dev/how-to-host-your-frontend-projects-on-github-pages-for-free)
+- [Linux Distributions &lpar;known as Distros&rpar;](https://anoor.hashnode.dev/linux-distributions-known-as-distros)
+- [How to overcome procrastination](https://anoor.hashnode.dev/overcoming-procrastination)
+- [Understanding HTML Video Tag](https://anoor.hashnode.dev/understanding-html-video-tag)
 <!-- BLOG-POST-LIST:END -->
 
 ▶[... More Blog Posts](https://anoor.hashnode.dev/)
