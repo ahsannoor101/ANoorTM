@@ -1,9 +1,12 @@
+![WordPress Web Development and Technical Writing by Ahsan Noor 101 twitter](https://user-images.githubusercontent.com/86782537/191790440-83e33186-9e69-418f-9d56-070b0e8d8d27.png)
+
+![](https://komarev.com/ghpvc/?username=ANoorTM)
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Ahsan Noor.</h1>
 <p><strong>A Software Engineer & Technical Writer.</strong> I'm passionately curious & an avid learner. Currently (re)learning & sharing everything in Full Stack Web Development.</p>
   
 Follow me to stay updated:
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)](https://www.youtube.com/channel/UCGTUeyCleMZgwjrcwKOM_oA?sub_confirmation=1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)](https://www.youtube.com/channel/UCGTUeyCleMZgwjrcwKOM_oA?sub_confirmation=1)
 
 ---
   
