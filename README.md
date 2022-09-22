@@ -1,4 +1,6 @@
-Hi dear visitor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Ahsan Noor.
+Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m Ahsan Noor.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)
 - 👀 A Software Engineer learning to be a Full Stack Dev.
 - 🌱 I’m currently working as a Freelance Developer.
 - ✍ Technical Writing.
