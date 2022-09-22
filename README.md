@@ -1,4 +1,4 @@
-- 👋 Hi https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif, I’m Ahsan Noor.
+- 👋 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Ahsan Noor.
 - 👀 A Software Engineer learning to be a Full Stack Dev.
 - 🌱 I’m currently working as a Freelance Developer.
 - ✍ Technical Writing.
