@@ -35,6 +35,8 @@ Follow me to stay updated:
 
 ---
 
+💞 Support Me
+
 <a href="https://www.buymeacoffee.com/anoortm" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a Coffee">
 </a>
@@ -51,10 +53,15 @@ Follow me to stay updated:
 
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko" alt="Current Streak" width="100%" height="200px">
 
+---
+
+💻 Languages I know/learning
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
 
 ---
 
-💌 Socials
+💌 My Socials
 
 <a href="https://www.linkedin.com/in/ahsan-noor/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -65,6 +72,8 @@ Follow me to stay updated:
 <a href="https://www.instagram.com/anoortm/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
+
+---
 
 👨‍💻 Developer Forums
 
@@ -84,6 +93,8 @@ Follow me to stay updated:
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen">
 </a>
 
+---
+
 ✍ My Blogs
 
 <a href="https://anoor.hashnode.dev/" target="_blank">
@@ -96,11 +107,15 @@ Follow me to stay updated:
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Link">
 </a>
 
+---
+
 💼 Freelance Profiles
 
 <a href="https://www.upwork.com/freelancers/~01cefe4714ded51640" target="_blank">
 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
 </a>
+
+---
 
 <!---
 ANoorTM/ANoorTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
