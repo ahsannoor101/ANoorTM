@@ -35,12 +35,19 @@ Follow me to stay updated:
 
 ---
 
+<a href="https://www.buymeacoffee.com/anoortm" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a Coffee">
+</a>
+
+---
+
 📈 My GitHub Stats <br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ANoorTM&show_icons=true&theme=merko" alt="GitHub Stats" width="47%" height="200px">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANoorTM&layout=compact&show_icons=true&theme=merko" alt="Top Languages" width="47%" height="200px">
 
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko" alt="Current Streak" width="100%" height="200px">
+
 
 ---
 
@@ -55,8 +62,8 @@ Follow me to stay updated:
 <a href="https://www.instagram.com/anoortm/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://web.facebook.com/MAhsanNoor/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+<a href="https://codepen.io/anoortm" target="_blank">
+<img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen">
 </a>
 
 ✍ My Blogs
