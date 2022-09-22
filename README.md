@@ -42,6 +42,23 @@ Follow me to stay updated:
 
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko" alt="Current Streak" width="100%" height="200px">
 
+---
+
+💌 Socials
+
+<a href="https://www.linkedin.com/in/ahsan-noor/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/ANoorTM" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.instagram.com/anoortm/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://web.facebook.com/MAhsanNoor/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+</a>
+
 <!---
 ANoorTM/ANoorTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
