@@ -1,9 +1,9 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">  I'm Ahsan Noor.</h1>
 <h2>A Software Engineer & Technical Writer</h2>
-<h3>I'm a curiously avid learner & a passionate teacher, who is (Re)learning everything in Full Stack Web Development.
+<h3>I'm a curious & avid learner, (re)learning everything in Full Stack Web Development.
   
 ---
-    Follow me and stay updated:
+  Follow me to stay updated:
   
 ![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)
 
@@ -41,7 +41,7 @@
 
 [![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANoorTM&show_icons=true&theme=merko)](https://github.com/ANoorTM/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANoorTM&show_icons=true&theme=merko)](https://github.com/ANoorTM/github-readme-stats)
 
-[![Ahsan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/ANoorTM/github-readme-stats)
+[![Ahsan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko)](https://github.com/ANoorTM/github-readme-stats)
 
 <!---
 ANoorTM/ANoorTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
