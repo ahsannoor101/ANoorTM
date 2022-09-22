@@ -56,7 +56,25 @@ Follow me to stay updated:
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://web.facebook.com/MAhsanNoor/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+
+✍ My Blogs
+
+<a href="https://anoor.hashnode.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Link">
+</a>
+<a href="https://medium.com/@ANoorTM" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Link">
+</a>
+<a href="https://dev.to/anoortm" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Link">
+</a>
+
+💼 Freelance Profiles
+
+<a href="https://www.upwork.com/freelancers/~01cefe4714ded51640" target="_blank">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
 </a>
 
 <!---
