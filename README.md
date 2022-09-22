@@ -6,13 +6,13 @@
   
 Follow me to stay updated:
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)](https://www.youtube.com/channel/UCGTUeyCleMZgwjrcwKOM_oA?sub_confirmation=1)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/ANoorTM?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![Subscribe my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=Subscribe%20my%20YouTube&style=social)](https://www.youtube.com/channel/UCGTUeyCleMZgwjrcwKOM_oA?sub_confirmation=1)
 
 ---
   
 ✍🏻 Creating content on Twitter
   
-🥑 Open for DevRel role
+🥑 Open to DevRel role
 
 🌐 Portfolio website [Ahsan's Portfolio](https://anoortm.github.io/portfolio/)
 
