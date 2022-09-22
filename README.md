@@ -22,9 +22,7 @@ Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 ---
 
-- 👀 A Software Engineer learning to be a Full Stack Dev.
-- 🌱 I’m currently working as a Freelance Developer.
-- ✍ Technical Writing.
+[![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANoorTM)](https://github.com/ANoorTM/github-readme-stats)
 
 <!---
 ANoorTM/ANoorTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
