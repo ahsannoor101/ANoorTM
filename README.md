@@ -3,7 +3,7 @@
   
 Follow me to stay updated:
   
-![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ANoorTM?label=Twitter%20Account&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=YouTube%20Channel&style=social)](https://www.youtube.com/channel/UCGTUeyCleMZgwjrcwKOM_oA?sub_confirmation=1)
 
 ---
   
