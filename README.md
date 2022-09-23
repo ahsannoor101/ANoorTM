@@ -9,7 +9,9 @@ Follow me to stay updated:
 [![Follow on Twitter](https://img.shields.io/twitter/follow/ANoorTM?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![Subscribe my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCGTUeyCleMZgwjrcwKOM_oA?label=Subscribe%20my%20YouTube&style=social)](https://www.youtube.com/channel/UCGTUeyCleMZgwjrcwKOM_oA?sub_confirmation=1)
 
 ---
-  
+
+<a href="https://app.daily.dev/ANoorTM"><img align="right" src="https://github.com/ANoorTM/ANoorTM/blob/main/devcard.svg" width="400px" alt="Ahsan Noor's Dev Card"/></a>
+
 ✍🏻 Creating content on Twitter
   
 🥑 Open to DevRel role
@@ -17,14 +19,6 @@ Follow me to stay updated:
 🌐 Portfolio website [Ahsan's Portfolio](https://anoortm.github.io/portfolio/)
 
 📥 Email: hassan.an31@gmail.com
-
-<a href="https://app.daily.dev/ANoorTM"><img align="right" src="https://github.com/ANoorTM/ANoorTM/blob/main/devcard.svg" width="400px" alt="Ahsan Noor's Dev Card"/></a>
-
----
-
-🧰 My Toolkit
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50px" height="50px">
 
 ---
 
@@ -48,6 +42,12 @@ Follow me to stay updated:
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsers">
 </a>
+
+---
+
+🧰 My Toolkit
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub Logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50px" height="50px">
 
 ---
 
