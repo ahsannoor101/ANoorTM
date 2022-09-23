@@ -18,7 +18,7 @@ Follow me to stay updated:
 
 📥 Email: hassan.an31@gmail.com
 
-<a href="https://app.daily.dev/ANoorTM"><img align="right" src="https://api.daily.dev/devcards/ed3c144c530345b5a8a9b15ae39ffd59.png?r=9xu" width="400" alt="Ahsan Noor.'s Dev Card"/></a>
+<a href="https://app.daily.dev/ANoorTM"><img align="right" src="https://github.com/ANoorTM/ANoorTM/blob/master/devcard.svg" width="400" alt="Ahsan Noor's Dev Card"/></a>
 
 ---
 
