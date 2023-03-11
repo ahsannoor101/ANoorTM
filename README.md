@@ -14,7 +14,7 @@ Follow me to stay updated:
 
 ✍🏻 Creating content on Twitter
   
-🥑 DevRel @TreblleAPI
+🥑 Open to DevRel role
 
 🌐 Portfolio website [Ahsan's Portfolio](https://anoortm.github.io/portfolio/)
 
