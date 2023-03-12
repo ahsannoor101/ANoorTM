@@ -18,8 +18,6 @@ Follow me to stay updated:
 
 🌐 Portfolio website [Ahsan's Portfolio](https://anoortm.github.io/portfolio/)
 
-📥 Email: hassan.an31@gmail.com
-
 ---
 
 📙 My Recent Blogs
