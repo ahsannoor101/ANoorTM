@@ -14,7 +14,7 @@ Follow me to stay updated:
 
 ✍🏻 Creating content on Twitter
   
-🥑 Open to DevRel role
+🥑 Looking for a DevRel role
 
 🌐 Portfolio website [Ahsan's Portfolio](https://anoortm.github.io/portfolio/)
 
