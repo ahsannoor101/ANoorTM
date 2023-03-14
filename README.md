@@ -22,6 +22,7 @@ Follow me to stay updated:
 
 📙 My Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Quick-Guide To Deal With Procrastination!](https://anoor.hashnode.dev/a-quick-guide-to-deal-with-procrastination)
 - [How to host your frontend projects on GitHub pages for free?](https://anoor.hashnode.dev/how-to-host-your-frontend-projects-on-github-pages-for-free)
 - [Linux Distributions &lpar;known as Distros&rpar;](https://anoor.hashnode.dev/linux-distributions-known-as-distros)
 - [How to overcome procrastination](https://anoor.hashnode.dev/overcoming-procrastination)
