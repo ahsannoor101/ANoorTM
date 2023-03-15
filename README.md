@@ -74,7 +74,7 @@ Follow me to stay updated:
 <a href="https://twitter.com/ANoorTM" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="[https://www.instagram.com/anoortm/](https://www.instagram.com/ahsannoor101/)" target="_blank">
+<a href="https://www.instagram.com/ahsannoor101/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
