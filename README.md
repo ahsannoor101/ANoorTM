@@ -22,11 +22,11 @@ Follow me to stay updated:
 
 📙 My Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SPL: a database language featuring easy writing and fast running](https://anoor.hashnode.dev/spl-a-database-language-featuring-easy-writing-and-fast-running)
 - [How to tackle your IMPOSTER SYNDROME?](https://anoor.hashnode.dev/how-to-tackle-imposter-syndrome)
 - [A Quick-Guide To Deal With Procrastination!](https://anoor.hashnode.dev/a-quick-guide-to-deal-with-procrastination)
 - [How to host your frontend projects on GitHub pages for free?](https://anoor.hashnode.dev/how-to-host-your-frontend-projects-on-github-pages-for-free)
 - [Linux Distributions &lpar;known as Distros&rpar;](https://anoor.hashnode.dev/linux-distributions-known-as-distros)
-- [How to overcome procrastination](https://anoor.hashnode.dev/overcoming-procrastination)
 <!-- BLOG-POST-LIST:END -->
 
 ▶[... More Blog Posts](https://anoor.hashnode.dev/)
