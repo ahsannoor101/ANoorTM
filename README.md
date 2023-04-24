@@ -1,22 +1,22 @@
 ![WordPress Web Development and Technical Writing by Ahsan Noor 101 twitter](https://user-images.githubusercontent.com/86782537/191790440-83e33186-9e69-418f-9d56-070b0e8d8d27.png)
 
-![](https://komarev.com/ghpvc/?username=ANoorTM)
+![](https://komarev.com/ghpvc/?username=ahsannoor101)
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Ahsan Noor.</h1>
 <p><strong>A Software Engineer & Technical Writer.</strong> I'm passionately curious & an avid learner. Currently (re)learning & sharing everything in Full Stack Web Development.</p>
   
 Follow me to stay updated:
   
-[![Follow on Twitter](https://img.shields.io/twitter/follow/ANoorTM?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ANoorTM) [![Subscribe my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCzSLKvVLkr94Ho-c9SAKUQg?label=Subscribe%20my%20YouTube&style=social)](https://www.youtube.com/channel/UCzSLKvVLkr94Ho-c9SAKUQg?sub_confirmation=1)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/ahsannoor101?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ahsannoor101) [![Subscribe my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCzSLKvVLkr94Ho-c9SAKUQg?label=Subscribe%20my%20YouTube&style=social)](https://www.youtube.com/channel/UCzSLKvVLkr94Ho-c9SAKUQg?sub_confirmation=1)
 
 ---
 
-<a href="https://app.daily.dev/ANoorTM"><img align="right" src="https://github.com/ANoorTM/ANoorTM/blob/main/devcard.svg" width="400px" alt="Ahsan Noor's Dev Card"/></a>
+<a href="https://app.daily.dev/ANoorTM"><img align="right" src="https://github.com/ahsannoor101/ahsannoor101/blob/main/devcard.svg" width="400px" alt="Ahsan Noor's Dev Card"/></a>
 
 ✍🏻 Creating content on Twitter
   
 🥑 Looking for a DevRel role
 
-🌐 Portfolio website [Ahsan's Portfolio](https://anoortm.github.io/portfolio/)
+🌐 Portfolio website [Ahsan's Portfolio](https://ahsannoor101.github.io/portfolio/)
 
 ---
 
@@ -53,10 +53,10 @@ Follow me to stay updated:
 
 📈 My GitHub Stats <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ANoorTM&show_icons=true&theme=merko" alt="GitHub Stats" width="47%" height="200px">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANoorTM&layout=compact&show_icons=true&theme=merko" alt="Top Languages" width="47%" height="200px">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahsannoor101&show_icons=true&theme=merko" alt="GitHub Stats" width="47%" height="200px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsannoor101&layout=compact&show_icons=true&theme=merko" alt="Top Languages" width="47%" height="200px">
 
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ANoorTM&theme=merko" alt="Current Streak" width="100%" height="200px">
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsannoor101&theme=merko" alt="Current Streak" width="100%" height="200px">
 
 ---
 
