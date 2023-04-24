@@ -71,7 +71,7 @@ Follow me to stay updated:
 <a href="https://www.linkedin.com/in/ahsan-noor/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/ANoorTM" target="_blank">
+<a href="https://twitter.com/ahsannoor101" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
 </a>
 <a href="https://www.instagram.com/ahsannoor101/" target="_blank">
