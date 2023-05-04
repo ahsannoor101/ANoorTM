@@ -10,7 +10,7 @@ Follow me to stay updated:
 
 ---
 
-<a href="https://app.daily.dev/Ahsan"><img align="right" src="https://github.com/ahsannoor101/ahsannoor101/blob/main/devcard.svg" width="400px" alt="Ahsan Noor's Dev Card"/></a>
+<a href="https://app.daily.dev/ahsannoor"><img src="https://api.daily.dev/devcards/4adcd07f183f482db0b7da0819e9d510.png?r=402" width="400" alt="Ahsan Noor's Dev Card"/></a>
 
 ✍🏻 Creating content on Twitter
   
