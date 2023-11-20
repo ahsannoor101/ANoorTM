@@ -12,9 +12,9 @@ Follow me on socials:
 
 ✍🏻 Creating content on Twitter
   
-🥑 Looking for a DevRel role
+🥑 Open for frontend or a DevRel role
 
-🌐 Portfolio website [Ahsan's Portfolio](https://ahsannoor101.github.io/portfolio/)
+🌐 My website [Ahsan's Blog](https://ahsannoor.com/)
 
 ---
 
