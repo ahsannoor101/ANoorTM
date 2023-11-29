@@ -14,7 +14,7 @@ Follow me on socials:
   
 🥑 Looking for a DevRel role
 
-🌐 Portfolio website [Ahsan's Portfolio](https://ahsannoor101.github.io/portfolio/)
+🌐 Portfolio website [Ahsan's Portfolio](https://ahsannoor.com/)
 
 ---
 
