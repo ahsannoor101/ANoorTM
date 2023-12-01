@@ -4,7 +4,7 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Ahsan Noor.</h1>
 <p><strong>A Software Engineer & Technical Writer.</strong> I'm passionately curious & an avid learner. Currently (re)learning & sharing everything in Full Stack Web Development.</p>
   
-Follow me on socials:
+Find me on socials:
   
 [![Follow on Twitter](https://img.shields.io/twitter/follow/ahsannoor101?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ahsannoor101) [![Subscribe my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCzSLKvVLkr94Ho-c9SAKUQg?label=Subscribe%20my%20YouTube&style=social)](https://www.youtube.com/channel/UCzSLKvVLkr94Ho-c9SAKUQg?sub_confirmation=1)
 
